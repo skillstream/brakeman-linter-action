@@ -1,0 +1,9 @@
+name: "Brakeman linter in Action"
+description: "A GitHub Action that lints your Ruby code with Brakeman. Latest!"
+author: Tan Nguyen
+runs:
+  using: "docker"
+  image: "Dockerfile"
+branding:
+  icon: "check-square"
+  color: "red"
