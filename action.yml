@@ -1,6 +1,6 @@
-name: "Brakeman linter in Action"
-description: "A GitHub Action that lints your Ruby code with Brakeman. Latest!"
-author: Tan Nguyen
+name: "Brakeman static analysis"
+description: "A GitHub Action that performs static analysis of your Ruby code with Brakeman."
+author: Tan Nguyen, forked by Ben Dilley
 runs:
   using: "docker"
   image: "Dockerfile"

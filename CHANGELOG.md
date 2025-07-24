@@ -11,3 +11,6 @@
 ## v2.0.0
 - Update gems
 - Update ruby and brakeman in Dockerfile
+
+## v2.1.0
+- Update Ruby to 3.4 because Brakeman 7.0 raised the minimum Ruby version to 3.1
