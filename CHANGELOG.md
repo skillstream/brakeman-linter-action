@@ -14,3 +14,6 @@
 
 ## v2.1.0
 - Update Ruby to 3.4 because Brakeman 7.0 raised the minimum Ruby version to 3.1
+
+## v2.1.1
+- Bump rexml from 3.2.5 to 3.3.9 to resolve security vulns.
