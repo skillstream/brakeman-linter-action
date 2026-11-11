@@ -17,3 +17,6 @@
 
 ## v2.1.1
 - Bump rexml from 3.2.5 to 3.3.9 to resolve security vulns.
+
+## v2.2.0
+- Update Ruby to 4.0 because otherwise results are inconsistent when the target is on Ruby 4+
